@@ -9,9 +9,9 @@ gastoAnual += gasto;
 console.log (ganhoAnual);
 console.log (gastoAnual); 
 let saldo = ganhoAnual - gastoAnual; 
-alert ("ganho anual: ", ganhoAnual);
-alert ("gasto anual: ", gastoAnual);
-alert ("saldo anua:", saldo);
+alert ("ganho anual: " + ganhoAnual);
+alert ("gasto anual: " + gastoAnual);
+alert ("saldo anua:" + saldo);
 
 if (saldo>0) {
     alert ("lucro!")
