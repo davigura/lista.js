@@ -1,0 +1,2 @@
+function picole 
+let codigo 
